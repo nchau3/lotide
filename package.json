@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@nchau3/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "lodash clone, part of lighthouse labs web development course",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/nchau3/lotide.git"
   },
-  "author": "",
+  "author": "Nicholas Chau <nc_chau@hotmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nchau3/lotide/issues"
